@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">⚡ Welcome to the Chaos — I'm Jay ⚡</h1>
+<h1 align="center">⚡ Welcome to the Chaos — I'</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=Badass+Creative+%7C+Code+Alchemist;Turning+Ideas+into+Digital+Chaos;Breaking+Rules+%26+Building+New+Worlds">
@@ -36,8 +36,8 @@
 
 ### 📊 Stats That Don’t Lie
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Opiumdragon&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Opiumdragon&theme=radical" />
 </p>
 
 ---
