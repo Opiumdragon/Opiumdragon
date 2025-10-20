@@ -1,22 +1,22 @@
 <!-- README.md -->
-<h1 align="center">🌑 Welcome I'm Chaos</h1>
+<h1 align="center">Welcome I'm Chaos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=E62E2E&center=true&vCenter=true&width=520&lines=Code+%2B+Art+%3D+Rebellion;Beauty+in+Disorder;Turning+Chaos+into+Masterpieces">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=E62E2E&center=true&vCenter=true&width=520&lines=Code+%2B+Art+%3D+Rebellion;Beauty+in+Disorder;">
 </p>
 
 ---
 
-### 🖤 About Me  
-> “I don’t chase perfection — I chase impact.”  
-> Code is my medium. Chaos is my muse.
+### 🖤 About Me    
+> Upcoming Full-stack Developer.
+> Just starting my full-stack journey — projects loading…
 
 - ⚔️ Developer with a rebel mind.  
 - 🔥 Currently learning Full-Stack .
 
 ---
 
-### ⚙️ Tech Arsenal
+### ⚙️ Skill Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,git" />
 </p>
