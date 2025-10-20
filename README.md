@@ -1,61 +1,47 @@
 <!-- README.md -->
-<h1 align="center">⚡ Welcome to the Chaos — I'</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF1178&center=true&vCenter=true&width=600&lines=Access+Granted...;Welcome+to+Jay's+Digital+Anarchy;Badass+Creative+in+Control+of+Chaos">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=Badass+Creative+%7C+Code+Alchemist;Turning+Ideas+into+Digital+Chaos;Breaking+Rules+%26+Building+New+Worlds">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1178,100:00f0ff&height=2" width="60%"/>
+</p>
+
+### 👾 Identity
+> I’m not here to code safely. I’m here to break the system beautifully.
+
+- 💀 Chaos Engineer  
+- ⚡ Digital Artist disguised as a Developer  
+- 🔮 Building aesthetics that bite  
+
+---
+
+### 🧰 Weapons of Choice
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,tailwind,git,linux,figma" />
 </p>
 
 ---
 
-### 🧠 About Me  
-> I don't follow blueprints — I build explosions.  
-> Mixing code, art, and strategy into something that *shouldn’t work… but does.*  
-
-- 🪞 Always chasing the next evolution.  
-- ⚔️ Fueled by caffeine, chaos, and creation.  
-- 🎨 Aesthetic-driven, logic-enhanced.  
-- 🔥 Current obsession: bending reality with code.  
-
----
-
-### ⚙️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git," />
-</p>
-
----
-
-### ⚔️ Featured Projects
+### 🧠 Featured Madness
 | Project | Description | Stack |
 |----------|--------------|-------|
-| **SEGA Movie Site** | Cinematic UI built from pure chaos | HTML • CSS • JS |
-| **Dark Journal (Notion)** | Trading + strategy journal from another dimension | Notion API • Automation |
-| **SynLabs** | Creative experiments from the Syndicate | React • Tailwind • OpenAI |
+| **⚔️ SynEngine** | The creative core of The Syndicate | React • Tailwind • Node |
+| **🎞️ SEGA Site** | Movie portal from another reality | HTML • CSS • JS |
+| **🧩 Chaos Scripts** | Automations that break the rules | Python • Bash |
 
 ---
 
-### 📊 Stats That Don’t Lie
+### 📈 System Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Opiumdragon&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Opiumdragon&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🩸 Quote I Live By
-> “I’d rather create something chaotic and unforgettable than something safe and invisible.”
-
----
-
-### ⚡ Connect With Me  
-<p align="center">
-  <a href="https://discord.gg/YOUR_LINK"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
+> “The code speaks in static, the art hides in the glitch.”
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:ffcc00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff1178&height=100&section=footer"/>
 </p>
