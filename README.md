@@ -20,7 +20,7 @@
 
 ### ⚙️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,git," />
 </p>
 
 ---
