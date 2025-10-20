@@ -1,48 +1,62 @@
 <!-- README.md -->
-<h1 align="center">🌘 Jay — Architect of Digital Chaos 🌒</h1>
+<h1 align="center">🌑 Jay — Creative Chaos in Control 🌑</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=22&pause=1500&color=FF3366&center=true&vCenter=true&width=480&lines=Creative+Anarchy;Code+as+Art;Beauty+in+Disorder">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=E62E2E&center=true&vCenter=true&width=520&lines=Code+%2B+Art+%3D+Rebellion;Beauty+in+Disorder;Turning+Chaos+into+Masterpieces">
 </p>
 
 ---
 
-### 🎭 Who I Am
-> An artist with code. A strategist in chaos.  
-> I design things that shouldn't make sense — but do.
+### 🖤 Manifesto  
+> “I don’t chase perfection — I chase impact.”  
+> Code is my medium. Chaos is my muse.
 
-- 🌪️ Crafting worlds out of pixels.  
-- 🎨 Style > Standards.  
-- 🧬 Currently evolving The Syndicate ecosystem.  
+- ⚔️ Developer with a rebel mind.  
+- 🎨 Artist of aesthetics and systems.  
+- 🧠 Strategist behind The Syndicate.  
+- 🔥 Currently building tools that blend design, data, and danger.
 
 ---
 
-### 🧠 Stack
+### ⚙️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,tailwind,figma,git,notion,linux" />
 </p>
 
 ---
 
-### 🪩 Current Experiments
-| Project | Mood |
-|----------|------|
-| **SEGA** | Cinematic Chaos |
-| **Syndicate Tools** | Tactical Design |
-| **Dark Journal** | Mind Mapping x Trading |
+### 🧩 Projects
+| Project | Description | Mood |
+|----------|--------------|------|
+| **🩸 Black Journal** | A trading journal that looks like art and works like war. | Dark Precision |
+| **🎞️ SEGA** | A cinematic movie site dripping with style. | Visual Chaos |
+| **⚡ Syndicate Tools** | Creative utilities for the bold. | Tactical & Aesthetic |
 
 ---
 
-### 📊 Digital Pulse
+### 📊 Stats That Don’t Lie
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-> “If it’s too structured, it’s not art.”
+### 🌒 Words I Live By  
+> “If it’s too structured, it’s not art.”  
+> “Order is for the predictable — I prefer elegance in chaos.”
+
+---
+
+### ⚡ Connect With Me  
+<p align="center">
+  <a href="https://discord.gg/YOUR_LINK"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3366,100:3300ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62E2E,100:3300FF&height=120&section=footer"/>
 </p>
