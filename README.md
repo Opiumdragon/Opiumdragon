@@ -2,7 +2,7 @@
 <h1 align="center">Welcome I'm Chaos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=E62E2E&center=true&vCenter=true&width=520&lines=Code+%2B+Art+%3D+Rebellion;Beauty+in+Disorder;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9146ff&center=true&vCenter=true&width=520&lines=Code+%2B+Art+%3D+Rebellion;Beauty+in+Disorder;">
 </p>
 
 ---
